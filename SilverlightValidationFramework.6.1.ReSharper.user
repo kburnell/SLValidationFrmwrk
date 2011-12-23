@@ -1,0 +1,226 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="428DA27A-9B94-4AC9-AF6A-6E3B8FD62551/f:App.xaml.cs" caret="235" fromTop="9" />
+      <File id="428DA27A-9B94-4AC9-AF6A-6E3B8FD62551/f:AppContext.cs" caret="428" fromTop="20" />
+      <File id="C67929E4-0C63-4676-B581-9D90771133C8/d:Controls/f:ChangeState.cs" caret="3590" fromTop="20" />
+      <File id="428DA27A-9B94-4AC9-AF6A-6E3B8FD62551/d:Views/f:RootView.xaml" caret="517" fromTop="8" />
+      <File id="428DA27A-9B94-4AC9-AF6A-6E3B8FD62551/f:App.xaml" caret="337" fromTop="7" />
+      <File id="428DA27A-9B94-4AC9-AF6A-6E3B8FD62551/d:Views/f:NewEmployeePageView.xaml.cs" caret="0" fromTop="0" />
+      <File id="C67929E4-0C63-4676-B581-9D90771133C8/f:BaseAppContext.cs" caret="2583" fromTop="78" />
+      <File id="428DA27A-9B94-4AC9-AF6A-6E3B8FD62551/d:Services.Data/f:Employee.cs" caret="152" fromTop="6" />
+      <File id="428DA27A-9B94-4AC9-AF6A-6E3B8FD62551/d:Utility/f:PropertyValidation.cs" caret="248" fromTop="4" />
+      <File id="428DA27A-9B94-4AC9-AF6A-6E3B8FD62551/d:Views/f:NewEmployeePageView.xaml" caret="4117" fromTop="19" />
+      <File id="428DA27A-9B94-4AC9-AF6A-6E3B8FD62551/d:ViewModels/f:NewEmployeePageViewModel.cs" caret="4067" fromTop="37" />
+      <File id="428DA27A-9B94-4AC9-AF6A-6E3B8FD62551/d:Services.Data/f:Division.cs" caret="363" fromTop="13" />
+      <File id="C67929E4-0C63-4676-B581-9D90771133C8/d:ViewModels/f:BaseViewModel.cs" caret="847" fromTop="20" />
+      <File id="428DA27A-9B94-4AC9-AF6A-6E3B8FD62551/d:ViewModels/d:BaseClasses/f:BaseViewModelExtension.cs" caret="2342" fromTop="25" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="428DA27A-9B94-4AC9-AF6A-6E3B8FD62551/d:ViewModels/d:BaseClasses/f:BaseViewModelExtension.cs" caret="5092" fromTop="22" />
+      <File id="428DA27A-9B94-4AC9-AF6A-6E3B8FD62551/d:ViewModels/d:BaseClasses/f:BaseViewModelExtension.cs" caret="1310" fromTop="0" />
+      <File id="428DA27A-9B94-4AC9-AF6A-6E3B8FD62551/d:ViewModels/f:NewEmployeePageViewModel.cs" caret="4169" fromTop="106" />
+      <File id="428DA27A-9B94-4AC9-AF6A-6E3B8FD62551/d:ViewModels/f:NewEmployeePageViewModel.cs" caret="4169" fromTop="51" />
+      <File id="428DA27A-9B94-4AC9-AF6A-6E3B8FD62551/d:Views/f:NewEmployeePageView.xaml" caret="2699" fromTop="38" />
+      <File id="428DA27A-9B94-4AC9-AF6A-6E3B8FD62551/d:Services.Data/f:Employee.cs" caret="152" fromTop="6" />
+      <File id="428DA27A-9B94-4AC9-AF6A-6E3B8FD62551/d:ViewModels/f:NewEmployeePageViewModel.cs" caret="4169" fromTop="22" />
+      <File id="428DA27A-9B94-4AC9-AF6A-6E3B8FD62551/d:Views/f:NewEmployeePageView.xaml" caret="2699" fromTop="38" />
+      <File id="428DA27A-9B94-4AC9-AF6A-6E3B8FD62551/d:ViewModels/d:BaseClasses/f:BaseViewModelExtension.cs" caret="5096" fromTop="51" />
+      <File id="428DA27A-9B94-4AC9-AF6A-6E3B8FD62551/d:ViewModels/d:BaseClasses/f:BaseViewModelExtension.cs" caret="1115" fromTop="23" />
+      <File id="428DA27A-9B94-4AC9-AF6A-6E3B8FD62551/d:ViewModels/d:BaseClasses/f:BaseViewModelExtension.cs" caret="5096" fromTop="50" />
+      <File id="428DA27A-9B94-4AC9-AF6A-6E3B8FD62551/d:ViewModels/d:BaseClasses/f:BaseViewModelExtension.cs" caret="5096" fromTop="43" />
+      <File id="428DA27A-9B94-4AC9-AF6A-6E3B8FD62551/d:ViewModels/d:BaseClasses/f:BaseViewModelExtension.cs" caret="5096" fromTop="0" />
+      <File id="428DA27A-9B94-4AC9-AF6A-6E3B8FD62551/d:ViewModels/f:NewEmployeePageViewModel.cs" caret="4169" fromTop="9" />
+      <File id="428DA27A-9B94-4AC9-AF6A-6E3B8FD62551/d:ViewModels/f:NewEmployeePageViewModel.cs" caret="4169" fromTop="10" />
+      <File id="428DA27A-9B94-4AC9-AF6A-6E3B8FD62551/d:ViewModels/f:NewEmployeePageViewModel.cs" caret="4169" fromTop="51" />
+      <File id="428DA27A-9B94-4AC9-AF6A-6E3B8FD62551/d:ViewModels/f:NewEmployeePageViewModel.cs" caret="4169" fromTop="102" />
+      <File id="428DA27A-9B94-4AC9-AF6A-6E3B8FD62551/d:ViewModels/f:NewEmployeePageViewModel.cs" caret="393" fromTop="5" />
+      <File id="428DA27A-9B94-4AC9-AF6A-6E3B8FD62551/d:ViewModels/f:NewEmployeePageViewModel.cs" caret="0" fromTop="0" />
+      <File id="428DA27A-9B94-4AC9-AF6A-6E3B8FD62551/d:Services.Data/f:Division.cs" caret="363" fromTop="13" />
+      <File id="428DA27A-9B94-4AC9-AF6A-6E3B8FD62551/d:ViewModels/f:NewEmployeePageViewModel.cs" caret="3159" fromTop="29" />
+      <File id="428DA27A-9B94-4AC9-AF6A-6E3B8FD62551/d:ViewModels/f:NewEmployeePageViewModel.cs" caret="3754" fromTop="49" />
+      <File id="428DA27A-9B94-4AC9-AF6A-6E3B8FD62551/d:Views/f:NewEmployeePageView.xaml" caret="3528" fromTop="43" />
+      <File id="428DA27A-9B94-4AC9-AF6A-6E3B8FD62551/d:Views/f:NewEmployeePageView.xaml" caret="1673" fromTop="30" />
+      <File id="428DA27A-9B94-4AC9-AF6A-6E3B8FD62551/d:ViewModels/f:NewEmployeePageViewModel.cs" caret="3471" fromTop="18" />
+      <File id="428DA27A-9B94-4AC9-AF6A-6E3B8FD62551/d:Views/f:NewEmployeePageView.xaml" caret="4262" fromTop="22" />
+      <File id="428DA27A-9B94-4AC9-AF6A-6E3B8FD62551/d:Views/f:NewEmployeePageView.xaml" caret="4117" fromTop="19" />
+      <File id="428DA27A-9B94-4AC9-AF6A-6E3B8FD62551/d:ViewModels/d:BaseClasses/f:BaseViewModelExtension.cs" caret="2327" fromTop="33" />
+      <File id="428DA27A-9B94-4AC9-AF6A-6E3B8FD62551/d:ViewModels/d:BaseClasses/f:BaseViewModelExtension.cs" caret="2666" fromTop="32" />
+      <File id="428DA27A-9B94-4AC9-AF6A-6E3B8FD62551/d:ViewModels/f:NewEmployeePageViewModel.cs" caret="4067" fromTop="37" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="RootView" priority="58" />
+      <Item value="private" priority="255" />
+      <Item value="AppContext`0" priority="95" />
+      <Item value="prop" priority="353" />
+      <Item value="new" priority="223" />
+      <Item value="this" priority="159" />
+      <Item value="npc" priority="287" />
+      <Item value="string" priority="763" />
+      <Item value="Windows" priority="53" />
+      <Item value="Navigation" priority="53" />
+      <Item value="using" priority="30" />
+      <Item value="System" priority="30" />
+      <Item value="void" priority="287" />
+      <Item value="if" priority="415" />
+      <Item value="FirstName" priority="255" />
+      <Item value="AddError`0" priority="95" />
+      <Item value="LastName" priority="256" />
+      <Item value="DateOfBirth" priority="191" />
+      <Item value="public" priority="127" />
+      <Item value="Validate`0" priority="95" />
+      <Item value="ShowValidationErrors`0" priority="31" />
+      <Item value="ClearErrors`0" priority="31" />
+      <Item value="ErrorViewState" priority="31" />
+      <Item value="None" priority="16" />
+      <Item value="return" priority="159" />
+      <Item value="Dictionary&lt;string,string&gt;" priority="28" />
+      <Item value="_dataErrors" priority="287" />
+      <Item value="columnName" priority="31" />
+      <Item value="null" priority="223" />
+      <Item value="value" priority="319" />
+      <Item value="_firstName" priority="31" />
+      <Item value="NotifyPropertyChanged`0" priority="255" />
+      <Item value="ValidateFirstName`0" priority="63" />
+      <Item value="DateTime`0" priority="94" />
+      <Item value="ValidateDateOfBirth`0" priority="63" />
+      <Item value="ValidateLastName`0" priority="31" />
+      <Item value="abstract" priority="31" />
+      <Item value="bool" priority="31" />
+      <Item value="Collection&lt;ValidationResult&gt;" priority="28" />
+      <Item value="Validator`0" priority="63" />
+      <Item value="ValidationContext" priority="57" />
+      <Item value="results" priority="31" />
+      <Item value="protected" priority="31" />
+      <Item value="RegularExpressionAttribute`0" priority="31" />
+      <Item value="object" priority="127" />
+      <Item value="Func" priority="30" />
+      <Item value="memberExpression" priority="31" />
+      <Item value="MemberName" priority="31" />
+      <Item value="GetPropertyName`1" priority="96" />
+      <Item value="ValidateProperty`1" priority="95" />
+      <Item value="TBindingModel`0" priority="62" />
+      <Item value="TBaseViewModelExtension`0" priority="63" />
+      <Item value="AddAllAttributeValidators`0" priority="31" />
+      <Item value="NewEmployeePageViewModel`0" priority="30" />
+      <Item value="AddValidationFor`0" priority="31" />
+      <Item value="ConfirmPassword" priority="31" />
+      <Item value="x" priority="95" />
+      <Item value="Range" priority="31" />
+      <Item value="typeof" priority="31" />
+      <Item value="Name" priority="63" />
+      <Item value="ErrorMessage" priority="31" />
+      <Item value="Display" priority="31" />
+      <Item value="base" priority="31" />
+      <Item value="Employee" priority="89" />
+      <Item value="propertyInfo" priority="127" />
+      <Item value="HookupValidationAttributes`0" priority="95" />
+      <Item value="PropertyInfo`0" priority="63" />
+      <Item value="pi" priority="127" />
+      <Item value="HookupNestedValidationAttributes`0" priority="31" />
+      <Item value="_employee" priority="31" />
+      <Item value="property" priority="32" />
+      <Item value="virtual" priority="63" />
+      <Item value="long" priority="31" />
+      <Item value="ClearAllValidationErrors`0" priority="63" />
+      <Item value="expression" priority="32" />
+      <Item value="_errorMessages" priority="63" />
+      <Item value="propertyName" priority="31" />
+      <Item value="HasErrors" priority="96" />
+      <Item value="ClearValidationErrors`1" priority="31" />
+      <Item value="_validations" priority="95" />
+      <Item value="foreach" priority="31" />
+      <Item value="in" priority="31" />
+      <Item value="propertyValidation" priority="63" />
+      <Item value="OnErrorsChanged`0" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SilverlightValidationFramework.AppContext">
+      <Item value="RootView" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SilverlightValidationFramework.App">
+      <Item value="RootVisual" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="XamlCodeCompletionContext">
+      <Item value="DataContext" priority="5" />
+      <Item value="Content" priority="5" />
+      <Item value="HorizontalAlignment" priority="5" />
+      <Item value="Width" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="107" />
+      <Item value="Empty" priority="134" />
+      <Item value="Format`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Nullable`1">
+      <Item value="HasValue" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="ContainsKey`0" priority="80" />
+      <Item value="Remove`0" priority="107" />
+      <Item value="Count" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.ComponentModel.DataAnnotations.Validator">
+      <Item value="TryValidateObject`0" priority="26" />
+      <Item value="ValidateProperty`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.ICollection`1">
+      <Item value="Count" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.Expressions.MemberExpression">
+      <Item value="Member" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.MemberInfo">
+      <Item value="Name" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SilverlightValidationFramework.Utility.PropertyValidation`1">
+      <Item value="When`0" priority="26" />
+      <Item value="Show`0" priority="26" />
+      <Item value="PropertyName" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SilverlightValidationFramework.ViewModels.NewEmployeePageViewModel">
+      <Item value="_password" priority="53" />
+      <Item value="_confirmPassword" priority="26" />
+      <Item value="_employee" priority="55" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Equals`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SilverlightValidationFramework.ViewModels.BaseClasses.BaseViewModelExtension`1">
+      <Item value="Initialize`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SilverlightValidationFramework.Services.Data.Employee">
+      <Item value="Password" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.PropertyInfo">
+      <Item value="GetType`0" priority="26" />
+      <Item value="PropertyType" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="GetProperties`0" priority="26" />
+      <Item value="Name" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="GetType`0" priority="53" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.9\bin\net-2.0\lib</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

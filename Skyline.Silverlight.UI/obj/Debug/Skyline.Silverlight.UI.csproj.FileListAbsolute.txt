@@ -1,0 +1,270 @@
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\Skyline.Silverlight.UI.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\Skyline.Silverlight.UI.pdb
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\System.Windows.Controls.Data.Input.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\System.Windows.Controls.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\System.Windows.Controls.xml
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\System.Windows.Controls.Data.Input.xml
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\sr-Cyrl-CS\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\sr-Latn-CS\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\ar\System.Windows.Controls.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\bg\System.Windows.Controls.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\ca\System.Windows.Controls.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\cs\System.Windows.Controls.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\da\System.Windows.Controls.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\de\System.Windows.Controls.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\el\System.Windows.Controls.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\es\System.Windows.Controls.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\et\System.Windows.Controls.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\eu\System.Windows.Controls.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\fi\System.Windows.Controls.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\fr\System.Windows.Controls.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\he\System.Windows.Controls.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\hr\System.Windows.Controls.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\hu\System.Windows.Controls.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\id\System.Windows.Controls.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\it\System.Windows.Controls.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\ja\System.Windows.Controls.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\ko\System.Windows.Controls.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\lt\System.Windows.Controls.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\lv\System.Windows.Controls.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\ms\System.Windows.Controls.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\nl\System.Windows.Controls.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\no\System.Windows.Controls.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\pl\System.Windows.Controls.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\pt\System.Windows.Controls.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\ro\System.Windows.Controls.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\ru\System.Windows.Controls.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\sk\System.Windows.Controls.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\sl\System.Windows.Controls.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\sv\System.Windows.Controls.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\th\System.Windows.Controls.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\tr\System.Windows.Controls.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\uk\System.Windows.Controls.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\vi\System.Windows.Controls.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\obj\Debug\Skyline.Silverlight.UI.csprojResolveAssemblyReference.cache
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\obj\Debug\Controls\ConfirmationWindow.g.i.cs
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\obj\Debug\Controls\MessageWindow.g.i.cs
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\obj\Debug\Controls\ValidationErrorWindow.g.i.cs
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\obj\Debug\Skyline.Silverlight.UI.g.resources
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\obj\Debug\Skyline.Silverlight.UI.dll
+D:\Dev\Skyline\StandardsAndPractices\Silverlight\TaskList (Fluid UI)\Skyline.Silverlight.UI\obj\Debug\Skyline.Silverlight.UI.pdb
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\Skyline.Silverlight.UI.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\Skyline.Silverlight.UI.pdb
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\System.Windows.Controls.Data.Input.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\System.Windows.Controls.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\System.Windows.Controls.xml
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\System.Windows.Controls.Data.Input.xml
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\sr-Cyrl-CS\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\sr-Latn-CS\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\ar\System.Windows.Controls.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\bg\System.Windows.Controls.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\ca\System.Windows.Controls.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\cs\System.Windows.Controls.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\da\System.Windows.Controls.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\de\System.Windows.Controls.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\el\System.Windows.Controls.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\es\System.Windows.Controls.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\et\System.Windows.Controls.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\eu\System.Windows.Controls.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\fi\System.Windows.Controls.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\fr\System.Windows.Controls.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\he\System.Windows.Controls.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\hr\System.Windows.Controls.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\hu\System.Windows.Controls.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\id\System.Windows.Controls.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\it\System.Windows.Controls.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\ja\System.Windows.Controls.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\ko\System.Windows.Controls.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\lt\System.Windows.Controls.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\lv\System.Windows.Controls.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\ms\System.Windows.Controls.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\nl\System.Windows.Controls.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\no\System.Windows.Controls.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\pl\System.Windows.Controls.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\pt\System.Windows.Controls.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\ro\System.Windows.Controls.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\ru\System.Windows.Controls.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\sk\System.Windows.Controls.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\sl\System.Windows.Controls.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\sv\System.Windows.Controls.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\th\System.Windows.Controls.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\tr\System.Windows.Controls.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\uk\System.Windows.Controls.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\vi\System.Windows.Controls.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\obj\Debug\Skyline.Silverlight.UI.csprojResolveAssemblyReference.cache
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\obj\Debug\Controls\ConfirmationWindow.g.i.cs
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\obj\Debug\Controls\MessageWindow.g.i.cs
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\obj\Debug\Controls\ValidationErrorWindow.g.i.cs
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\obj\Debug\Skyline.Silverlight.UI.g.resources
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\obj\Debug\Skyline.Silverlight.UI.dll
+D:\Dev\Playland\SilverlightValidationFramework\Skyline.Silverlight.UI\obj\Debug\Skyline.Silverlight.UI.pdb

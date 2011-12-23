@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightValidationFramework", "SilverlightValidationFramework\SilverlightValidationFramework.csproj", "{428DA27A-9B94-4AC9-AF6A-6E3B8FD62551}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightValidationFramework.Web", "SilverlightValidationFramework.Web\SilverlightValidationFramework.Web.csproj", "{435FA03F-2B50-4E18-A872-08F1B699B875}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Production|Any CPU = Production|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{428DA27A-9B94-4AC9-AF6A-6E3B8FD62551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{428DA27A-9B94-4AC9-AF6A-6E3B8FD62551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{428DA27A-9B94-4AC9-AF6A-6E3B8FD62551}.Production|Any CPU.ActiveCfg = Release|Any CPU
+		{428DA27A-9B94-4AC9-AF6A-6E3B8FD62551}.Production|Any CPU.Build.0 = Release|Any CPU
+		{428DA27A-9B94-4AC9-AF6A-6E3B8FD62551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{428DA27A-9B94-4AC9-AF6A-6E3B8FD62551}.Release|Any CPU.Build.0 = Release|Any CPU
+		{435FA03F-2B50-4E18-A872-08F1B699B875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{435FA03F-2B50-4E18-A872-08F1B699B875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{435FA03F-2B50-4E18-A872-08F1B699B875}.Production|Any CPU.ActiveCfg = Release|Any CPU
+		{435FA03F-2B50-4E18-A872-08F1B699B875}.Production|Any CPU.Build.0 = Release|Any CPU
+		{435FA03F-2B50-4E18-A872-08F1B699B875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{435FA03F-2B50-4E18-A872-08F1B699B875}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

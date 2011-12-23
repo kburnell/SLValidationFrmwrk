@@ -1,0 +1,112 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:vsm="clr-namespace:System.Windows;assembly=System.Windows"
+    >
+
+
+    <SolidColorBrush x:Key="BrushTaskBorder" Color="#FF4081C6"/>
+
+    <LinearGradientBrush x:Key="BrushButtonBackground" EndPoint="0.5,1" StartPoint="0.5,0">
+        <GradientStop Color="#FFF0F4FF" Offset="0"/>
+        <GradientStop Color="#FFAACCF2" Offset="0.04"/>
+        <GradientStop Color="#FF4081C6" Offset="0.96"/>
+        <GradientStop Color="#FF3061A6" Offset="1"/>
+    </LinearGradientBrush>
+
+    <Style x:Key="TextBlockLabelStyle" TargetType="TextBlock">
+        <Setter Property="FontFamily" Value="Verdana"/>
+        <Setter Property="FontSize" Value="12"/>
+        <Setter Property="Foreground" Value="#FF262626"/>
+    </Style>
+
+    <Style x:Key="ButtonStyle" TargetType="Button">
+        <Setter Property="FontFamily" Value="Arial"/>
+        <Setter Property="FontSize" Value="12"/>
+        <Setter Property="Foreground" Value="#FFFFFFFF"/>
+        <Setter Property="Cursor" Value="Hand"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="Button">
+                    <Grid Height="24">
+                        <vsm:VisualStateManager.VisualStateGroups>
+                            <vsm:VisualStateGroup x:Name="FocusStates">
+                                <vsm:VisualState x:Name="Unfocused"/>
+                                <vsm:VisualState x:Name="Focused"/>
+                            </vsm:VisualStateGroup>
+                            <vsm:VisualStateGroup x:Name="CommonStates">
+                                <vsm:VisualState x:Name="MouseOver">
+                                    <Storyboard>
+                                        <DoubleAnimationUsingKeyFrames BeginTime="00:00:00" Duration="00:00:00.01" Storyboard.TargetName="RectangleHoverHighlight" Storyboard.TargetProperty="(UIElement.Opacity)">
+                                            <SplineDoubleKeyFrame KeyTime="00:00:00" Value="0.6"/>
+                                        </DoubleAnimationUsingKeyFrames>
+                                        <ObjectAnimationUsingKeyFrames BeginTime="00:00:00" Duration="00:00:00.01" Storyboard.TargetName="RectangleHoverHighlight" Storyboard.TargetProperty="(UIElement.Visibility)">
+                                            <DiscreteObjectKeyFrame KeyTime="00:00:00">
+                                                <DiscreteObjectKeyFrame.Value>
+                                                    <Visibility>Visible</Visibility>
+                                                </DiscreteObjectKeyFrame.Value>
+                                            </DiscreteObjectKeyFrame>
+                                        </ObjectAnimationUsingKeyFrames>
+                                    </Storyboard>
+                                </vsm:VisualState>
+                                <vsm:VisualState x:Name="Pressed">
+                                    <Storyboard>
+                                        <ColorAnimationUsingKeyFrames BeginTime="00:00:00" Storyboard.TargetName="border" Storyboard.TargetProperty="(Border.Background).(GradientBrush.GradientStops)[0].(GradientStop.Color)">
+                                            <SplineColorKeyFrame KeyTime="00:00:00.1" Value="#FF1D599B"/>
+                                        </ColorAnimationUsingKeyFrames>
+                                        <ColorAnimationUsingKeyFrames BeginTime="00:00:00" Storyboard.TargetName="border" Storyboard.TargetProperty="(Border.Background).(GradientBrush.GradientStops)[3].(GradientStop.Color)">
+                                            <SplineColorKeyFrame KeyTime="00:00:00.1" Value="#FF1D599B"/>
+                                        </ColorAnimationUsingKeyFrames>
+                                        <ColorAnimationUsingKeyFrames BeginTime="00:00:00" Storyboard.TargetName="border" Storyboard.TargetProperty="(Border.Background).(GradientBrush.GradientStops)[1].(GradientStop.Color)">
+                                            <SplineColorKeyFrame KeyTime="00:00:00.1" Value="#FF1D599B"/>
+                                        </ColorAnimationUsingKeyFrames>
+                                    </Storyboard>
+                                </vsm:VisualState>
+                                <vsm:VisualState x:Name="Disabled"/>
+                                <vsm:VisualState x:Name="Normal"/>
+                            </vsm:VisualStateGroup>
+                        </vsm:VisualStateManager.VisualStateGroups>
+
+                        <Border BorderThickness="1,1,1,1" CornerRadius="4,4,4,4" x:Name="border">
+                            <Border.BorderBrush>
+                                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                    <GradientStop Color="#FFA7C5E8" Offset="0"/>
+                                    <GradientStop Color="#FF3277C2" Offset="0.04"/>
+                                    <GradientStop Color="#FF1D599B" Offset="0.96"/>
+                                    <GradientStop Color="#FF0A3A70" Offset="1"/>
+                                </LinearGradientBrush>
+                            </Border.BorderBrush>
+                            <Border.Background>
+                                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                    <GradientStop Color="#FFAACCF2" Offset="0"/>
+                                    <GradientStop Color="#FF4C8DD2" Offset="0.5"/>
+                                    <GradientStop Color="#FF1D599B" Offset="0.5"/>
+                                    <GradientStop Color="#FF4081C6" Offset="1"/>
+                                </LinearGradientBrush>
+                            </Border.Background>
+
+                            <ContentPresenter HorizontalAlignment="Center" Margin="8,0,8,0" VerticalAlignment="Center" Width="Auto"/>
+
+                        </Border>
+
+                        <Rectangle RadiusX="1" RadiusY="1" StrokeThickness="2" Opacity="0" Margin="2,12,2,-12" x:Name="RectangleHoverHighlight" Visibility="Collapsed">
+                            <Rectangle.Clip>
+                                <RectangleGeometry Rect="0 0 400 12" />
+                            </Rectangle.Clip>
+                            <Rectangle.Fill>
+                                <RadialGradientBrush>
+                                    <GradientStop Color="#FFFFFFFF"/>
+                                    <GradientStop Color="#24FFFFFF" Offset="1"/>
+                                </RadialGradientBrush>
+                            </Rectangle.Fill>
+                        </Rectangle>
+
+                    </Grid>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    
+    
+</ResourceDictionary>
