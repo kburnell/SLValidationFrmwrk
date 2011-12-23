@@ -3,3 +3,8 @@ D:\Dev\Playland\SilverlightValidationFramework\SilverlightValidationFramework.We
 D:\Dev\Playland\SilverlightValidationFramework\SilverlightValidationFramework.Web\obj\Debug\SilverlightValidationFramework.Web.csprojResolveAssemblyReference.cache
 D:\Dev\Playland\SilverlightValidationFramework\SilverlightValidationFramework.Web\obj\Debug\SilverlightValidationFramework.Web.dll
 D:\Dev\Playland\SilverlightValidationFramework\SilverlightValidationFramework.Web\obj\Debug\SilverlightValidationFramework.Web.pdb
+D:\Dev\SilverlightValidationFramework\SilverlightValidationFramework.Web\bin\SilverlightValidationFramework.Web.dll
+D:\Dev\SilverlightValidationFramework\SilverlightValidationFramework.Web\bin\SilverlightValidationFramework.Web.pdb
+D:\Dev\SilverlightValidationFramework\SilverlightValidationFramework.Web\obj\Debug\SilverlightValidationFramework.Web.csprojResolveAssemblyReference.cache
+D:\Dev\SilverlightValidationFramework\SilverlightValidationFramework.Web\obj\Debug\SilverlightValidationFramework.Web.dll
+D:\Dev\SilverlightValidationFramework\SilverlightValidationFramework.Web\obj\Debug\SilverlightValidationFramework.Web.pdb
