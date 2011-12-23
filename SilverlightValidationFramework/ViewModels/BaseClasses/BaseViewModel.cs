@@ -10,6 +10,8 @@ using SilverlightValidationFramework.Utility;
 
 namespace SilverlightValidationFramework.ViewModels.BaseClasses {
 
+    /* Note : Custom implementation of INotifyPropertyChanged was implemented by Tim Miller a coworker of mine at Skyline Technologies */
+
     public abstract class BaseViewModel<TBaseViewModel> : INotifyPropertyChanged, INotifyDataErrorInfo where TBaseViewModel : BaseViewModel<TBaseViewModel> {
 
         #region << Private Fields >>

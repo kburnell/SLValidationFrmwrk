@@ -16,6 +16,10 @@ namespace SilverlightValidationFramework.ViewModels {
         private string _firstName;
         private string _lastName;
         private string _password;
+        private Division _division;
+        private ObservableCollection<Division> _divisions = new ObservableCollection<Division> { new Division(), new Division { Id = 1, Title = "North" }, new Division { Id = 2, Title = "South" } };
+
+        private const string DefaultRequiredFieldMessage = " Is Required";
 
         #endregion
 
@@ -30,8 +34,7 @@ namespace SilverlightValidationFramework.ViewModels {
 
         #region << Public Properties >>
 
-        [Display(Name = "First Name")]
-        [Required(ErrorMessage = " Is Required")]
+        [Display(Name = "First Name"), Required(ErrorMessage = DefaultRequiredFieldMessage)]
         public string FirstName {
             get { return _firstName; }
             set {
@@ -42,8 +45,7 @@ namespace SilverlightValidationFramework.ViewModels {
             }
         }
 
-        [Display(Name = "Last Name")]
-        [Required(ErrorMessage = " Is Required")]
+        [Display(Name = "Last Name"), Required(ErrorMessage = DefaultRequiredFieldMessage)]
         public string LastName {
             get { return _lastName; }
             set {
@@ -54,9 +56,7 @@ namespace SilverlightValidationFramework.ViewModels {
             }
         }
 
-        [Display(Name = "Date of Birth")]
-        [Required(ErrorMessage = " Is Required")]
-        [Range(typeof (DateTime), "1/1/1950", "12/31/2250")]
+        [Display(Name = "Date of Birth"), Required(ErrorMessage = " Is Required"), Range(typeof (DateTime), "1/1/1950", "12/31/2250")]
         public DateTime? DateOfBirth {
             get { return _dateOfBirth; }
             set {
@@ -67,8 +67,7 @@ namespace SilverlightValidationFramework.ViewModels {
             }
         }
 
-        [Display(Name = "Password")]
-        [Required(ErrorMessage = " Is Required")]
+        [Display(Name = "Password"), Required(ErrorMessage = DefaultRequiredFieldMessage), StringLength(12, MinimumLength = 6, ErrorMessage = " Must be between 6 and 12 characters long.")]
         public string Password {
             get { return _password; }
             set {
@@ -79,8 +78,7 @@ namespace SilverlightValidationFramework.ViewModels {
             }
         }
 
-        [Display(Name = "Confirm Password")]
-        [Required(ErrorMessage = " Is Required")]
+        [Display(Name = "Confirm Password"), Required(ErrorMessage = DefaultRequiredFieldMessage)]
         public string ConfirmPassword {
             get { return _confirmPassword; }
             set {
@@ -90,8 +88,6 @@ namespace SilverlightValidationFramework.ViewModels {
                 }
             }
         }
-
-        private ObservableCollection<Division> _divisions = new ObservableCollection<Division> {new Division(), new Division { Id = 1, Title = "North" }, new Division { Id = 2, Title = "South" } };
 
         public ObservableCollection<Division> Divisions {
             get { return _divisions; }
@@ -103,9 +99,7 @@ namespace SilverlightValidationFramework.ViewModels {
             }
         }
 
-        private Division _division;
-
-        [Required]
+        [Display(Name = "Division"), Required(ErrorMessage = DefaultRequiredFieldMessage)]
         public Division Division {
             get { return _division; }
             set {
